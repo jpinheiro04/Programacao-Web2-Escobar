@@ -1,0 +1,18 @@
+O laravel possibilidade de adição de templates.
+Template é o site pronto que pode ser importado por todas as Views.
+
+MVC
+° Model
+° View
+° Controller
+
+Computador: Request -> controler
+             HTTP
+
+Controller: Demand -> Model 
+Model: Dados -> Controller
+
+Controller: Dados -> View
+View: Response -> Computador
+      html,XML
+----------------------------------------------------------------------------------------------------------------------------------
