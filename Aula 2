@@ -1,3 +1,5 @@
+Vercel.com
+----------------------------------------------------------------------------------------------------------------------------------
 O laravel possibilidade de adição de templates.
 Template é o site pronto que pode ser importado por todas as Views.
 
@@ -16,3 +18,20 @@ Controller: Dados -> View
 View: Response -> Computador
       html,XML
 ----------------------------------------------------------------------------------------------------------------------------------
+VIEW
+Exibe uma representação dos dados para usuario
+
+MODEL
+Contém a estrutura de dado atrás de uma parte especifica da aplicação
+
+CONTROLLER
+Exerce o controle de qual model deverá ser aplicado e qual view será mostrado ao usuário
+
+O Laravel é baseado na arquitetura MVC (acrônimo para Modelo-Visão-Controle). 
+MVC é um padrão de arquitetura de software focado em reuso de código, no qual ocorre a divisão da estrutura lógica de um sistema em 3 camadas: 
+
+Modelo: relacionada ao banco de dados; 
+
+Visão: vinculada a visualização dos dados e das páginas; 
+
+Controle: responsável pela conexão e transmissão de informações entre as camadas Modelo e Visão.
