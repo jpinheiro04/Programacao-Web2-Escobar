@@ -1,4 +1,8 @@
 Vercel.com
+
+Comando CMD
+code .
+php artisan serve
 ----------------------------------------------------------------------------------------------------------------------------------
 O laravel possibilidade de adição de templates.
 Template é o site pronto que pode ser importado por todas as Views.
