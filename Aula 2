@@ -4,6 +4,8 @@ Comando CMD
 code .
 php artisan serve
 composer create-project laravel/laravel teste-app
+php artisan make:migration
+php artisan migrate
 ----------------------------------------------------------------------------------------------------------------------------------
 O laravel possibilidade de adição de templates.
 Template é o site pronto que pode ser importado por todas as Views.
